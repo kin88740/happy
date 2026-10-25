@@ -1,0 +1,565 @@
+{
+  "users": {
+    "8733682209": {
+      "KO_ZERO": {
+        "total": 10,
+        "wins": 3,
+        "losses": 7,
+        "currentWinStreak": 1,
+        "currentLossStreak": 0,
+        "maxWinStreak": 1,
+        "maxLossStreak": 5
+      },
+      "QUANTUM_CALC": {
+        "total": 121,
+        "wins": 64,
+        "losses": 57,
+        "currentWinStreak": 1,
+        "currentLossStreak": 0,
+        "maxWinStreak": 5,
+        "maxLossStreak": 5
+      }
+    },
+    "5569051502": {
+      "KO_ZERO": {
+        "total": 18,
+        "wins": 8,
+        "losses": 10,
+        "currentWinStreak": 1,
+        "currentLossStreak": 0,
+        "maxWinStreak": 3,
+        "maxLossStreak": 6
+      }
+    },
+    "7010654323": {
+      "ALINKAR": {
+        "total": 52,
+        "wins": 25,
+        "losses": 27,
+        "currentWinStreak": 2,
+        "currentLossStreak": 0,
+        "maxWinStreak": 3,
+        "maxLossStreak": 3
+      }
+    },
+    "7812128123": {
+      "QUANTUM_CALC": {
+        "total": 16,
+        "wins": 9,
+        "losses": 7,
+        "currentWinStreak": 2,
+        "currentLossStreak": 0,
+        "maxWinStreak": 4,
+        "maxLossStreak": 3
+      }
+    }
+  },
+  "games": {
+    "TRX": {
+      "TREND_FOLLOW": {
+        "total": 224,
+        "wins": 113,
+        "losses": 111,
+        "currentWinStreak": 0,
+        "currentLossStreak": 1,
+        "maxWinStreak": 8,
+        "maxLossStreak": 7
+      },
+      "KO_ZERO": {
+        "total": 224,
+        "wins": 105,
+        "losses": 119,
+        "currentWinStreak": 2,
+        "currentLossStreak": 0,
+        "maxWinStreak": 6,
+        "maxLossStreak": 8
+      },
+      "ALTERNATE": {
+        "total": 224,
+        "wins": 112,
+        "losses": 112,
+        "currentWinStreak": 1,
+        "currentLossStreak": 0,
+        "maxWinStreak": 7,
+        "maxLossStreak": 8
+      },
+      "BS_ORDER": {
+        "total": 224,
+        "wins": 104,
+        "losses": 120,
+        "currentWinStreak": 0,
+        "currentLossStreak": 1,
+        "maxWinStreak": 11,
+        "maxLossStreak": 11
+      },
+      "OP_PATTERN": {
+        "total": 224,
+        "wins": 111,
+        "losses": 113,
+        "currentWinStreak": 1,
+        "currentLossStreak": 0,
+        "maxWinStreak": 6,
+        "maxLossStreak": 9
+      },
+      "ALINKAR": {
+        "total": 224,
+        "wins": 111,
+        "losses": 113,
+        "currentWinStreak": 2,
+        "currentLossStreak": 0,
+        "maxWinStreak": 7,
+        "maxLossStreak": 9
+      },
+      "QUANTUM_CALC": {
+        "total": 224,
+        "wins": 115,
+        "losses": 109,
+        "currentWinStreak": 0,
+        "currentLossStreak": 1,
+        "maxWinStreak": 6,
+        "maxLossStreak": 5
+      },
+      "TIME_WARP": {
+        "total": 224,
+        "wins": 113,
+        "losses": 111,
+        "currentWinStreak": 2,
+        "currentLossStreak": 0,
+        "maxWinStreak": 7,
+        "maxLossStreak": 8
+      },
+      "SHINE": {
+        "total": 224,
+        "wins": 118,
+        "losses": 106,
+        "currentWinStreak": 2,
+        "currentLossStreak": 0,
+        "maxWinStreak": 6,
+        "maxLossStreak": 7
+      },
+      "COLOR_SNIPER": {
+        "total": 207,
+        "wins": 73,
+        "losses": 134,
+        "currentWinStreak": 2,
+        "currentLossStreak": 0,
+        "maxWinStreak": 5,
+        "maxLossStreak": 16
+      },
+      "CYBER_SNIPER": {
+        "total": 203,
+        "wins": 101,
+        "losses": 102,
+        "currentWinStreak": 0,
+        "currentLossStreak": 1,
+        "maxWinStreak": 10,
+        "maxLossStreak": 9
+      }
+    },
+    "WINGO_30S": {
+      "TREND_FOLLOW": {
+        "total": 358,
+        "wins": 164,
+        "losses": 194,
+        "currentWinStreak": 0,
+        "currentLossStreak": 1,
+        "maxWinStreak": 7,
+        "maxLossStreak": 7
+      },
+      "KO_ZERO": {
+        "total": 358,
+        "wins": 187,
+        "losses": 171,
+        "currentWinStreak": 1,
+        "currentLossStreak": 0,
+        "maxWinStreak": 7,
+        "maxLossStreak": 10
+      },
+      "ALTERNATE": {
+        "total": 358,
+        "wins": 193,
+        "losses": 165,
+        "currentWinStreak": 1,
+        "currentLossStreak": 0,
+        "maxWinStreak": 7,
+        "maxLossStreak": 7
+      },
+      "BS_ORDER": {
+        "total": 358,
+        "wins": 180,
+        "losses": 178,
+        "currentWinStreak": 0,
+        "currentLossStreak": 1,
+        "maxWinStreak": 7,
+        "maxLossStreak": 8
+      },
+      "OP_PATTERN": {
+        "total": 358,
+        "wins": 176,
+        "losses": 182,
+        "currentWinStreak": 0,
+        "currentLossStreak": 2,
+        "maxWinStreak": 9,
+        "maxLossStreak": 10
+      },
+      "ALINKAR": {
+        "total": 358,
+        "wins": 175,
+        "losses": 183,
+        "currentWinStreak": 1,
+        "currentLossStreak": 0,
+        "maxWinStreak": 6,
+        "maxLossStreak": 9
+      },
+      "QUANTUM_CALC": {
+        "total": 358,
+        "wins": 178,
+        "losses": 180,
+        "currentWinStreak": 2,
+        "currentLossStreak": 0,
+        "maxWinStreak": 6,
+        "maxLossStreak": 6
+      },
+      "TIME_WARP": {
+        "total": 358,
+        "wins": 173,
+        "losses": 185,
+        "currentWinStreak": 0,
+        "currentLossStreak": 4,
+        "maxWinStreak": 7,
+        "maxLossStreak": 9
+      },
+      "SHINE": {
+        "total": 358,
+        "wins": 181,
+        "losses": 177,
+        "currentWinStreak": 0,
+        "currentLossStreak": 2,
+        "maxWinStreak": 6,
+        "maxLossStreak": 13
+      },
+      "CYBER_SNIPER": {
+        "total": 355,
+        "wins": 179,
+        "losses": 176,
+        "currentWinStreak": 0,
+        "currentLossStreak": 1,
+        "maxWinStreak": 6,
+        "maxLossStreak": 8
+      },
+      "COLOR_SNIPER": {
+        "total": 331,
+        "wins": 125,
+        "losses": 206,
+        "currentWinStreak": 0,
+        "currentLossStreak": 1,
+        "maxWinStreak": 6,
+        "maxLossStreak": 9
+      }
+    },
+    "WINGO_5MIN": {
+      "TREND_FOLLOW": {
+        "total": 45,
+        "wins": 23,
+        "losses": 22,
+        "currentWinStreak": 1,
+        "currentLossStreak": 0,
+        "maxWinStreak": 6,
+        "maxLossStreak": 6
+      },
+      "KO_ZERO": {
+        "total": 45,
+        "wins": 23,
+        "losses": 22,
+        "currentWinStreak": 1,
+        "currentLossStreak": 0,
+        "maxWinStreak": 7,
+        "maxLossStreak": 6
+      },
+      "ALTERNATE": {
+        "total": 45,
+        "wins": 21,
+        "losses": 24,
+        "currentWinStreak": 0,
+        "currentLossStreak": 1,
+        "maxWinStreak": 6,
+        "maxLossStreak": 6
+      },
+      "BS_ORDER": {
+        "total": 45,
+        "wins": 20,
+        "losses": 25,
+        "currentWinStreak": 0,
+        "currentLossStreak": 1,
+        "maxWinStreak": 2,
+        "maxLossStreak": 3
+      },
+      "OP_PATTERN": {
+        "total": 45,
+        "wins": 16,
+        "losses": 29,
+        "currentWinStreak": 1,
+        "currentLossStreak": 0,
+        "maxWinStreak": 2,
+        "maxLossStreak": 5
+      },
+      "ALINKAR": {
+        "total": 45,
+        "wins": 18,
+        "losses": 27,
+        "currentWinStreak": 1,
+        "currentLossStreak": 0,
+        "maxWinStreak": 4,
+        "maxLossStreak": 5
+      },
+      "QUANTUM_CALC": {
+        "total": 45,
+        "wins": 27,
+        "losses": 18,
+        "currentWinStreak": 2,
+        "currentLossStreak": 0,
+        "maxWinStreak": 6,
+        "maxLossStreak": 3
+      },
+      "TIME_WARP": {
+        "total": 45,
+        "wins": 29,
+        "losses": 16,
+        "currentWinStreak": 5,
+        "currentLossStreak": 0,
+        "maxWinStreak": 9,
+        "maxLossStreak": 3
+      },
+      "SHINE": {
+        "total": 45,
+        "wins": 25,
+        "losses": 20,
+        "currentWinStreak": 0,
+        "currentLossStreak": 1,
+        "maxWinStreak": 5,
+        "maxLossStreak": 6
+      },
+      "COLOR_SNIPER": {
+        "total": 38,
+        "wins": 13,
+        "losses": 25,
+        "currentWinStreak": 0,
+        "currentLossStreak": 5,
+        "maxWinStreak": 3,
+        "maxLossStreak": 6
+      },
+      "CYBER_SNIPER": {
+        "total": 38,
+        "wins": 20,
+        "losses": 18,
+        "currentWinStreak": 2,
+        "currentLossStreak": 0,
+        "maxWinStreak": 4,
+        "maxLossStreak": 3
+      }
+    },
+    "WINGO": {
+      "TREND_FOLLOW": {
+        "total": 184,
+        "wins": 93,
+        "losses": 91,
+        "currentWinStreak": 0,
+        "currentLossStreak": 1,
+        "maxWinStreak": 6,
+        "maxLossStreak": 8
+      },
+      "KO_ZERO": {
+        "total": 184,
+        "wins": 76,
+        "losses": 108,
+        "currentWinStreak": 0,
+        "currentLossStreak": 11,
+        "maxWinStreak": 7,
+        "maxLossStreak": 11
+      },
+      "ALTERNATE": {
+        "total": 184,
+        "wins": 90,
+        "losses": 94,
+        "currentWinStreak": 1,
+        "currentLossStreak": 0,
+        "maxWinStreak": 8,
+        "maxLossStreak": 6
+      },
+      "BS_ORDER": {
+        "total": 184,
+        "wins": 97,
+        "losses": 87,
+        "currentWinStreak": 0,
+        "currentLossStreak": 1,
+        "maxWinStreak": 9,
+        "maxLossStreak": 6
+      },
+      "OP_PATTERN": {
+        "total": 184,
+        "wins": 88,
+        "losses": 96,
+        "currentWinStreak": 2,
+        "currentLossStreak": 0,
+        "maxWinStreak": 7,
+        "maxLossStreak": 7
+      },
+      "ALINKAR": {
+        "total": 184,
+        "wins": 86,
+        "losses": 98,
+        "currentWinStreak": 1,
+        "currentLossStreak": 0,
+        "maxWinStreak": 5,
+        "maxLossStreak": 8
+      },
+      "QUANTUM_CALC": {
+        "total": 184,
+        "wins": 105,
+        "losses": 79,
+        "currentWinStreak": 0,
+        "currentLossStreak": 2,
+        "maxWinStreak": 17,
+        "maxLossStreak": 5
+      },
+      "TIME_WARP": {
+        "total": 184,
+        "wins": 98,
+        "losses": 86,
+        "currentWinStreak": 1,
+        "currentLossStreak": 0,
+        "maxWinStreak": 7,
+        "maxLossStreak": 6
+      },
+      "SHINE": {
+        "total": 184,
+        "wins": 79,
+        "losses": 105,
+        "currentWinStreak": 0,
+        "currentLossStreak": 4,
+        "maxWinStreak": 7,
+        "maxLossStreak": 6
+      },
+      "COLOR_SNIPER": {
+        "total": 181,
+        "wins": 70,
+        "losses": 111,
+        "currentWinStreak": 3,
+        "currentLossStreak": 0,
+        "maxWinStreak": 5,
+        "maxLossStreak": 8
+      },
+      "CYBER_SNIPER": {
+        "total": 181,
+        "wins": 91,
+        "losses": 90,
+        "currentWinStreak": 0,
+        "currentLossStreak": 1,
+        "maxWinStreak": 6,
+        "maxLossStreak": 7
+      }
+    },
+    "WINGO_3MIN": {
+      "TREND_FOLLOW": {
+        "total": 68,
+        "wins": 29,
+        "losses": 39,
+        "currentWinStreak": 1,
+        "currentLossStreak": 0,
+        "maxWinStreak": 5,
+        "maxLossStreak": 10
+      },
+      "KO_ZERO": {
+        "total": 68,
+        "wins": 35,
+        "losses": 33,
+        "currentWinStreak": 3,
+        "currentLossStreak": 0,
+        "maxWinStreak": 8,
+        "maxLossStreak": 5
+      },
+      "ALTERNATE": {
+        "total": 68,
+        "wins": 38,
+        "losses": 30,
+        "currentWinStreak": 0,
+        "currentLossStreak": 1,
+        "maxWinStreak": 9,
+        "maxLossStreak": 5
+      },
+      "BS_ORDER": {
+        "total": 68,
+        "wins": 36,
+        "losses": 32,
+        "currentWinStreak": 3,
+        "currentLossStreak": 0,
+        "maxWinStreak": 7,
+        "maxLossStreak": 4
+      },
+      "OP_PATTERN": {
+        "total": 68,
+        "wins": 34,
+        "losses": 34,
+        "currentWinStreak": 2,
+        "currentLossStreak": 0,
+        "maxWinStreak": 8,
+        "maxLossStreak": 7
+      },
+      "ALINKAR": {
+        "total": 68,
+        "wins": 32,
+        "losses": 36,
+        "currentWinStreak": 1,
+        "currentLossStreak": 0,
+        "maxWinStreak": 5,
+        "maxLossStreak": 6
+      },
+      "QUANTUM_CALC": {
+        "total": 68,
+        "wins": 23,
+        "losses": 45,
+        "currentWinStreak": 1,
+        "currentLossStreak": 0,
+        "maxWinStreak": 3,
+        "maxLossStreak": 7
+      },
+      "TIME_WARP": {
+        "total": 68,
+        "wins": 35,
+        "losses": 33,
+        "currentWinStreak": 1,
+        "currentLossStreak": 0,
+        "maxWinStreak": 5,
+        "maxLossStreak": 8
+      },
+      "SHINE": {
+        "total": 68,
+        "wins": 35,
+        "losses": 33,
+        "currentWinStreak": 0,
+        "currentLossStreak": 1,
+        "maxWinStreak": 9,
+        "maxLossStreak": 4
+      },
+      "COLOR_SNIPER": {
+        "total": 65,
+        "wins": 27,
+        "losses": 38,
+        "currentWinStreak": 0,
+        "currentLossStreak": 1,
+        "maxWinStreak": 3,
+        "maxLossStreak": 5
+      },
+      "CYBER_SNIPER": {
+        "total": 63,
+        "wins": 36,
+        "losses": 27,
+        "currentWinStreak": 2,
+        "currentLossStreak": 0,
+        "maxWinStreak": 6,
+        "maxLossStreak": 3
+      }
+    }
+  },
+  "strategyDay": 20728
+}

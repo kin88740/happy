@@ -1,0 +1,134 @@
+{
+  "ratings": {
+    "KO_PAING": [
+      {
+        "userId": "8733682209",
+        "rating": 5,
+        "updatedAt": "2026-10-03T03:20:24.414Z"
+      }
+    ],
+    "QUANTUM_CALC": [
+      {
+        "userId": "7010654323",
+        "rating": 4,
+        "updatedAt": "2026-10-06T23:53:44.649Z"
+      },
+      {
+        "userId": "8733682209",
+        "rating": 5,
+        "updatedAt": "2026-10-10T05:43:37.586Z"
+      },
+      {
+        "userId": "6860514018",
+        "rating": 5,
+        "updatedAt": "2026-10-06T12:29:51.843Z"
+      }
+    ],
+    "SHINE": [
+      {
+        "userId": "8072726765",
+        "rating": 3,
+        "updatedAt": "2026-10-03T07:06:11.318Z"
+      },
+      {
+        "userId": "6860514018",
+        "rating": 5,
+        "updatedAt": "2026-10-09T10:01:06.112Z"
+      }
+    ],
+    "KO_ZERO": [
+      {
+        "userId": "8072726765",
+        "rating": 4,
+        "updatedAt": "2026-10-04T00:28:26.978Z"
+      }
+    ],
+    "TREND_FOLLOW": [
+      {
+        "userId": "6488267174",
+        "rating": 5,
+        "updatedAt": "2026-10-10T03:02:26.875Z"
+      },
+      {
+        "userId": "7703801604",
+        "rating": 5,
+        "updatedAt": "2026-10-05T01:48:23.588Z"
+      },
+      {
+        "userId": "5432566921",
+        "rating": 5,
+        "updatedAt": "2026-10-06T07:26:59.236Z"
+      },
+      {
+        "userId": "5380515728",
+        "rating": 2,
+        "updatedAt": "2026-10-06T06:52:42.038Z"
+      },
+      {
+        "userId": "5809103341",
+        "rating": 5,
+        "updatedAt": "2026-10-15T02:51:52.365Z"
+      },
+      {
+        "userId": "2054838131",
+        "rating": 5,
+        "updatedAt": "2026-10-12T00:46:58.488Z"
+      },
+      {
+        "userId": "7812128123",
+        "rating": 5,
+        "updatedAt": "2026-10-12T17:13:36.788Z"
+      }
+    ],
+    "OP_PATTERN": [
+      {
+        "userId": "8538596908",
+        "rating": 4,
+        "updatedAt": "2026-10-06T07:24:08.980Z"
+      }
+    ],
+    "CHANNEL_SIGNAL": [
+      {
+        "userId": "5809103341",
+        "rating": 5,
+        "updatedAt": "2026-10-09T15:29:09.687Z"
+      },
+      {
+        "userId": "5432566921",
+        "rating": 5,
+        "updatedAt": "2026-10-11T07:10:59.756Z"
+      },
+      {
+        "userId": "6488267174",
+        "rating": 5,
+        "updatedAt": "2026-10-22T13:45:14.397Z"
+      }
+    ],
+    "BS_ORDER": [
+      {
+        "userId": "7156290347",
+        "rating": 5,
+        "updatedAt": "2026-10-10T05:02:22.040Z"
+      },
+      {
+        "userId": "8790936539",
+        "rating": 5,
+        "updatedAt": "2026-10-16T03:30:32.446Z"
+      }
+    ],
+    "TIME_WARP": [
+      {
+        "userId": "5809103341",
+        "rating": 5,
+        "updatedAt": "2026-10-12T06:22:02.432Z"
+      }
+    ],
+    "PAI_TRX_SIGNAL": [
+      {
+        "userId": "6488267174",
+        "rating": 5,
+        "updatedAt": "2026-10-22T12:53:58.093Z"
+      }
+    ]
+  }
+}

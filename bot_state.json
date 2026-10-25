@@ -1,0 +1,20 @@
+{
+  "maintenance": false,
+  "freeMode": false,
+  "groupNotificationDisabled": {
+    "5569051502": true,
+    "8733682209": true
+  },
+  "hiddenPlatforms": {
+    "777BIGWIN": true,
+    "6LOTTERY": true
+  },
+  "hiddenStrategies": {
+    "TIME_WARP": true,
+    "SHINE": true,
+    "CHANNEL_SIGNAL": true,
+    "COLOR_SNIPER": true,
+    "OP_PATTERN": true
+  },
+  "paymentAmount": 25000
+}

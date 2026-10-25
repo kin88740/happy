@@ -1,0 +1,4638 @@
+{
+  "users": {
+    "758815848": {
+      "2026-10-15": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 194,
+          "wins": 105,
+          "losses": 89,
+          "profit": 849.2000000000013
+        },
+        "strategies": {
+          "PAI_TRX_SIGNAL": {
+            "bets": 194,
+            "wins": 105,
+            "losses": 89,
+            "profit": 849.2000000000013
+          }
+        }
+      },
+      "2026-10-16": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 32,
+          "wins": 15,
+          "losses": 17,
+          "profit": 95.99999999999993
+        },
+        "strategies": {
+          "PAI_TRX_SIGNAL": {
+            "bets": 32,
+            "wins": 15,
+            "losses": 17,
+            "profit": 95.99999999999993
+          }
+        }
+      }
+    },
+    "2054838131": {
+      "2026-10-11": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 65,
+          "wins": 31,
+          "losses": 34,
+          "profit": 49200
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 65,
+            "wins": 31,
+            "losses": 34,
+            "profit": 49200
+          }
+        }
+      },
+      "2026-10-12": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 672,
+          "wins": 327,
+          "losses": 345,
+          "profit": -1217240
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 672,
+            "wins": 327,
+            "losses": 345,
+            "profit": -1217240
+          }
+        }
+      }
+    },
+    "7812128123": {
+      "2026-10-03": {
+        "manual": {
+          "bets": 1,
+          "wins": 0,
+          "losses": 1,
+          "profit": -1000
+        },
+        "auto": {
+          "bets": 318,
+          "wins": 166,
+          "losses": 152,
+          "profit": 7024
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 299,
+            "wins": 159,
+            "losses": 140,
+            "profit": 18132
+          },
+          "ALINKAR": {
+            "bets": 16,
+            "wins": 6,
+            "losses": 10,
+            "profit": -10368
+          },
+          "KO_PAING": {
+            "bets": 3,
+            "wins": 1,
+            "losses": 2,
+            "profit": -740
+          }
+        }
+      },
+      "2026-10-04": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 134,
+          "wins": 71,
+          "losses": 63,
+          "profit": 4468
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 134,
+            "wins": 71,
+            "losses": 63,
+            "profit": 4468
+          }
+        }
+      },
+      "2026-10-05": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 70,
+          "wins": 31,
+          "losses": 39,
+          "profit": -12444
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 70,
+            "wins": 31,
+            "losses": 39,
+            "profit": -12444
+          }
+        }
+      },
+      "2026-10-06": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 34,
+          "wins": 11,
+          "losses": 23,
+          "profit": -45144
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 34,
+            "wins": 11,
+            "losses": 23,
+            "profit": -45144
+          }
+        }
+      },
+      "2026-10-12": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 46,
+          "wins": 22,
+          "losses": 24,
+          "profit": 964
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 46,
+            "wins": 22,
+            "losses": 24,
+            "profit": 964
+          }
+        }
+      },
+      "2026-10-13": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 86,
+          "wins": 45,
+          "losses": 41,
+          "profit": -15360
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 86,
+            "wins": 45,
+            "losses": 41,
+            "profit": -15360
+          }
+        }
+      },
+      "2026-10-15": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 31,
+          "wins": 15,
+          "losses": 16,
+          "profit": -47488
+        },
+        "strategies": {
+          "SHANSHRED_HAIR": {
+            "bets": 25,
+            "wins": 12,
+            "losses": 13,
+            "profit": -48596
+          },
+          "PAI_TRX_SIGNAL": {
+            "bets": 6,
+            "wins": 3,
+            "losses": 3,
+            "profit": 1108
+          }
+        }
+      }
+    },
+    "5569051502": {
+      "2026-10-03": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 145,
+          "wins": 71,
+          "losses": 74,
+          "profit": 30984
+        },
+        "strategies": {
+          "KO_ZERO": {
+            "bets": 134,
+            "wins": 66,
+            "losses": 68,
+            "profit": 32184
+          },
+          "KO_PAING": {
+            "bets": 8,
+            "wins": 3,
+            "losses": 5,
+            "profit": -2120
+          },
+          "BS_ORDER": {
+            "bets": 3,
+            "wins": 2,
+            "losses": 1,
+            "profit": 920
+          }
+        }
+      },
+      "2026-10-04": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 66,
+          "wins": 34,
+          "losses": 32,
+          "profit": 120216
+        },
+        "strategies": {
+          "KO_ZERO": {
+            "bets": 61,
+            "wins": 32,
+            "losses": 29,
+            "profit": 121296
+          },
+          "BS_ORDER": {
+            "bets": 5,
+            "wins": 2,
+            "losses": 3,
+            "profit": -1080
+          }
+        }
+      },
+      "2026-10-05": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 52,
+          "wins": 30,
+          "losses": 22,
+          "profit": 112360
+        },
+        "strategies": {
+          "KO_ZERO": {
+            "bets": 37,
+            "wins": 18,
+            "losses": 19,
+            "profit": 55360
+          },
+          "QUANTUM_CALC": {
+            "bets": 15,
+            "wins": 12,
+            "losses": 3,
+            "profit": 57000
+          }
+        }
+      },
+      "2026-10-06": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 23,
+          "wins": 11,
+          "losses": 12,
+          "profit": 51400
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 23,
+            "wins": 11,
+            "losses": 12,
+            "profit": 51400
+          }
+        }
+      },
+      "2026-10-07": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 44,
+          "wins": 14,
+          "losses": 30,
+          "profit": -519400
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 21,
+            "wins": 7,
+            "losses": 14,
+            "profit": -159120
+          },
+          "KO_ZERO": {
+            "bets": 23,
+            "wins": 7,
+            "losses": 16,
+            "profit": -360280
+          }
+        }
+      }
+    },
+    "8733682209": {
+      "2026-10-03": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 26,
+          "wins": 12,
+          "losses": 14,
+          "profit": -4800
+        },
+        "strategies": {
+          "KO_PAING": {
+            "bets": 26,
+            "wins": 12,
+            "losses": 14,
+            "profit": -4800
+          }
+        }
+      },
+      "2026-10-04": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 11,
+          "wins": 5,
+          "losses": 6,
+          "profit": -117800
+        },
+        "strategies": {
+          "TIME_WARP": {
+            "bets": 11,
+            "wins": 5,
+            "losses": 6,
+            "profit": -117800
+          }
+        }
+      },
+      "2026-10-05": {
+        "manual": {
+          "bets": 2,
+          "wins": 1,
+          "losses": 1,
+          "profit": -2812
+        },
+        "auto": {
+          "bets": 198,
+          "wins": 107,
+          "losses": 91,
+          "profit": 96132
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 196,
+            "wins": 107,
+            "losses": 89,
+            "profit": 96532
+          },
+          "CHANNEL_SIGNAL": {
+            "bets": 2,
+            "wins": 0,
+            "losses": 2,
+            "profit": -400
+          }
+        }
+      },
+      "2026-10-06": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 100,
+          "wins": 38,
+          "losses": 62,
+          "profit": -100012
+        },
+        "strategies": {
+          "CHANNEL_SIGNAL": {
+            "bets": 79,
+            "wins": 31,
+            "losses": 48,
+            "profit": -73572
+          },
+          "QUANTUM_CALC": {
+            "bets": 21,
+            "wins": 7,
+            "losses": 14,
+            "profit": -26440
+          }
+        }
+      },
+      "2026-10-08": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 107,
+          "wins": 58,
+          "losses": 49,
+          "profit": 3839960876
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 107,
+            "wins": 58,
+            "losses": 49,
+            "profit": 3839960876
+          }
+        }
+      },
+      "2026-10-09": {
+        "manual": {
+          "bets": 2,
+          "wins": 1,
+          "losses": 1,
+          "profit": -32
+        },
+        "auto": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "strategies": {}
+      },
+      "2026-10-10": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 37,
+          "wins": 15,
+          "losses": 22,
+          "profit": 27016
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 37,
+            "wins": 15,
+            "losses": 22,
+            "profit": 27016
+          }
+        }
+      },
+      "2026-10-12": {
+        "manual": {
+          "bets": 3,
+          "wins": 1,
+          "losses": 2,
+          "profit": -20200
+        },
+        "auto": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "strategies": {}
+      },
+      "2026-10-13": {
+        "manual": {
+          "bets": 2,
+          "wins": 1,
+          "losses": 1,
+          "profit": -1154
+        },
+        "auto": {
+          "bets": 4,
+          "wins": 1,
+          "losses": 3,
+          "profit": 364
+        },
+        "strategies": {
+          "CHANNEL_SIGNAL": {
+            "bets": 4,
+            "wins": 1,
+            "losses": 3,
+            "profit": 364
+          }
+        }
+      },
+      "2026-10-15": {
+        "manual": {
+          "bets": 1,
+          "wins": 0,
+          "losses": 1,
+          "profit": -900
+        },
+        "auto": {
+          "bets": 78,
+          "wins": 36,
+          "losses": 42,
+          "profit": -94216
+        },
+        "strategies": {
+          "CHANNEL_SIGNAL": {
+            "bets": 1,
+            "wins": 0,
+            "losses": 1,
+            "profit": -100
+          },
+          "SHANSHRED_HAIR": {
+            "bets": 77,
+            "wins": 36,
+            "losses": 41,
+            "profit": -94116
+          }
+        }
+      },
+      "2026-10-22": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 35,
+          "wins": 10,
+          "losses": 25,
+          "profit": -3776
+        },
+        "strategies": {
+          "SHANSHRED_HAIR": {
+            "bets": 35,
+            "wins": 10,
+            "losses": 25,
+            "profit": -3776
+          }
+        }
+      },
+      "2026-10-24": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 8,
+          "wins": 2,
+          "losses": 6,
+          "profit": -520
+        },
+        "strategies": {
+          "SHANSHRED_HAIR": {
+            "bets": 8,
+            "wins": 2,
+            "losses": 6,
+            "profit": -520
+          }
+        }
+      }
+    },
+    "5809103341": {
+      "2026-10-03": {
+        "manual": {
+          "bets": 4,
+          "wins": 3,
+          "losses": 1,
+          "profit": 1228
+        },
+        "auto": {
+          "bets": 13,
+          "wins": 8,
+          "losses": 5,
+          "profit": 436
+        },
+        "strategies": {
+          "KO_PAING": {
+            "bets": 13,
+            "wins": 8,
+            "losses": 5,
+            "profit": 436
+          }
+        }
+      },
+      "2026-10-09": {
+        "manual": {
+          "bets": 6,
+          "wins": 4,
+          "losses": 2,
+          "profit": 1340
+        },
+        "auto": {
+          "bets": 123,
+          "wins": 61,
+          "losses": 62,
+          "profit": -12428
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 6,
+            "wins": 3,
+            "losses": 3,
+            "profit": 352
+          },
+          "CHANNEL_SIGNAL": {
+            "bets": 117,
+            "wins": 58,
+            "losses": 59,
+            "profit": -12780
+          }
+        }
+      },
+      "2026-10-10": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 619,
+          "wins": 304,
+          "losses": 315,
+          "profit": 2805.2
+        },
+        "strategies": {
+          "CHANNEL_SIGNAL": {
+            "bets": 150,
+            "wins": 73,
+            "losses": 77,
+            "profit": -7744
+          },
+          "TREND_FOLLOW": {
+            "bets": 469,
+            "wins": 231,
+            "losses": 238,
+            "profit": 10549.199999999977
+          }
+        }
+      },
+      "2026-10-11": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 525,
+          "wins": 252,
+          "losses": 273,
+          "profit": -7138.399999999999
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 525,
+            "wins": 252,
+            "losses": 273,
+            "profit": -7138.399999999999
+          }
+        }
+      },
+      "2026-10-12": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 846,
+          "wins": 418,
+          "losses": 428,
+          "profit": 317692
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 546,
+            "wins": 267,
+            "losses": 279,
+            "profit": -3100
+          },
+          "ALTERNATE": {
+            "bets": 24,
+            "wins": 12,
+            "losses": 12,
+            "profit": -82040
+          },
+          "TIME_WARP": {
+            "bets": 276,
+            "wins": 139,
+            "losses": 137,
+            "profit": 402832
+          }
+        }
+      },
+      "2026-10-14": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 12,
+          "wins": 7,
+          "losses": 5,
+          "profit": -54.400000000000006
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 12,
+            "wins": 7,
+            "losses": 5,
+            "profit": -54.400000000000006
+          }
+        }
+      },
+      "2026-10-15": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 144,
+          "wins": 72,
+          "losses": 72,
+          "profit": 92
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 144,
+            "wins": 72,
+            "losses": 72,
+            "profit": 92
+          }
+        }
+      },
+      "2026-10-16": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 17,
+          "wins": 6,
+          "losses": 11,
+          "profit": 5768
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 17,
+            "wins": 6,
+            "losses": 11,
+            "profit": 5768
+          }
+        }
+      }
+    },
+    "8072726765": {
+      "2026-10-03": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 424,
+          "wins": 225,
+          "losses": 199,
+          "profit": 12548
+        },
+        "strategies": {
+          "KO_PAING": {
+            "bets": 2,
+            "wins": 0,
+            "losses": 2,
+            "profit": -2000
+          },
+          "KO_ZERO": {
+            "bets": 256,
+            "wins": 146,
+            "losses": 110,
+            "profit": 15460
+          },
+          "CYBER_SNIPER": {
+            "bets": 14,
+            "wins": 10,
+            "losses": 4,
+            "profit": 4328
+          },
+          "ALTERNATE": {
+            "bets": 8,
+            "wins": 3,
+            "losses": 5,
+            "profit": -2120
+          },
+          "QUANTUM_CALC": {
+            "bets": 19,
+            "wins": 8,
+            "losses": 11,
+            "profit": -10964
+          },
+          "SHINE": {
+            "bets": 120,
+            "wins": 55,
+            "losses": 65,
+            "profit": 7372
+          },
+          "BS_ORDER": {
+            "bets": 5,
+            "wins": 3,
+            "losses": 2,
+            "profit": 472
+          }
+        }
+      },
+      "2026-10-04": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 257,
+          "wins": 132,
+          "losses": 125,
+          "profit": 8044
+        },
+        "strategies": {
+          "KO_ZERO": {
+            "bets": 257,
+            "wins": 132,
+            "losses": 125,
+            "profit": 8044
+          }
+        }
+      },
+      "2026-10-07": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 28,
+          "wins": 9,
+          "losses": 19,
+          "profit": -2412
+        },
+        "strategies": {
+          "KO_ZERO": {
+            "bets": 7,
+            "wins": 3,
+            "losses": 4,
+            "profit": 1136
+          },
+          "QUANTUM_CALC": {
+            "bets": 21,
+            "wins": 6,
+            "losses": 15,
+            "profit": -3548
+          }
+        }
+      },
+      "2026-10-15": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 1,
+          "wins": 0,
+          "losses": 1,
+          "profit": -300
+        },
+        "strategies": {
+          "SHANSHRED_HAIR": {
+            "bets": 1,
+            "wins": 0,
+            "losses": 1,
+            "profit": -300
+          }
+        }
+      }
+    },
+    "7010654323": {
+      "2026-10-03": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 124,
+          "wins": 58,
+          "losses": 66,
+          "profit": 13228
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 124,
+            "wins": 58,
+            "losses": 66,
+            "profit": 13228
+          }
+        }
+      },
+      "2026-10-04": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 66,
+          "wins": 32,
+          "losses": 34,
+          "profit": 7761.6
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 66,
+            "wins": 32,
+            "losses": 34,
+            "profit": 7761.6
+          }
+        }
+      },
+      "2026-10-05": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 12,
+          "wins": 7,
+          "losses": 5,
+          "profit": -3036
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 12,
+            "wins": 7,
+            "losses": 5,
+            "profit": -3036
+          }
+        }
+      },
+      "2026-10-06": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 23,
+          "wins": 9,
+          "losses": 14,
+          "profit": -7136
+        },
+        "strategies": {
+          "ALINKAR": {
+            "bets": 5,
+            "wins": 1,
+            "losses": 4,
+            "profit": -2604
+          },
+          "QUANTUM_CALC": {
+            "bets": 18,
+            "wins": 8,
+            "losses": 10,
+            "profit": -4532
+          }
+        }
+      },
+      "2026-10-07": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 68,
+          "wins": 38,
+          "losses": 30,
+          "profit": -46596
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 68,
+            "wins": 38,
+            "losses": 30,
+            "profit": -46596
+          }
+        }
+      },
+      "2026-10-09": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 45,
+          "wins": 21,
+          "losses": 24,
+          "profit": -21960
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 45,
+            "wins": 21,
+            "losses": 24,
+            "profit": -21960
+          }
+        }
+      },
+      "2026-10-10": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 89,
+          "wins": 40,
+          "losses": 49,
+          "profit": -14256
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 54,
+            "wins": 27,
+            "losses": 27,
+            "profit": -9280
+          },
+          "ALINKAR": {
+            "bets": 24,
+            "wins": 10,
+            "losses": 14,
+            "profit": -4464
+          },
+          "SHINE": {
+            "bets": 5,
+            "wins": 0,
+            "losses": 5,
+            "profit": -500
+          },
+          "TREND_FOLLOW": {
+            "bets": 6,
+            "wins": 3,
+            "losses": 3,
+            "profit": -12
+          }
+        }
+      },
+      "2026-10-12": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 5,
+          "wins": 4,
+          "losses": 1,
+          "profit": 1516
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 5,
+            "wins": 4,
+            "losses": 1,
+            "profit": 1516
+          }
+        }
+      },
+      "2026-10-13": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 50,
+          "wins": 27,
+          "losses": 23,
+          "profit": 5096
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 50,
+            "wins": 27,
+            "losses": 23,
+            "profit": 5096
+          }
+        }
+      },
+      "2026-10-16": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 63,
+          "wins": 34,
+          "losses": 29,
+          "profit": -2102
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 63,
+            "wins": 34,
+            "losses": 29,
+            "profit": -2102
+          }
+        }
+      },
+      "2026-10-18": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 13,
+          "wins": 8,
+          "losses": 5,
+          "profit": -10070
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 13,
+            "wins": 8,
+            "losses": 5,
+            "profit": -10070
+          }
+        }
+      },
+      "2026-10-19": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 26,
+          "wins": 13,
+          "losses": 13,
+          "profit": 26164
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 3,
+            "wins": 1,
+            "losses": 2,
+            "profit": -304
+          },
+          "ALINKAR": {
+            "bets": 23,
+            "wins": 12,
+            "losses": 11,
+            "profit": 26468
+          }
+        }
+      }
+    },
+    "8654149478": {
+      "2026-10-03": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 10,
+          "wins": 6,
+          "losses": 4,
+          "profit": 1760
+        },
+        "strategies": {
+          "KO_PAING": {
+            "bets": 10,
+            "wins": 6,
+            "losses": 4,
+            "profit": 1760
+          }
+        }
+      },
+      "2026-10-04": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 36,
+          "wins": 20,
+          "losses": 16,
+          "profit": 3200
+        },
+        "strategies": {
+          "KO_PAING": {
+            "bets": 36,
+            "wins": 20,
+            "losses": 16,
+            "profit": 3200
+          }
+        }
+      },
+      "2026-10-05": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 1,
+          "wins": 1,
+          "losses": 0,
+          "profit": 960
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 1,
+            "wins": 1,
+            "losses": 0,
+            "profit": 960
+          }
+        }
+      },
+      "2026-10-06": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 66,
+          "wins": 39,
+          "losses": 27,
+          "profit": -15940
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 66,
+            "wins": 39,
+            "losses": 27,
+            "profit": -15940
+          }
+        }
+      }
+    },
+    "6488267174": {
+      "2026-10-03": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 457,
+          "wins": 221,
+          "losses": 236,
+          "profit": -23184
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 138,
+            "wins": 64,
+            "losses": 74,
+            "profit": -17424
+          },
+          "QUANTUM_CALC": {
+            "bets": 313,
+            "wins": 155,
+            "losses": 158,
+            "profit": -6304
+          },
+          "KO_ZERO": {
+            "bets": 6,
+            "wins": 2,
+            "losses": 4,
+            "profit": 544
+          }
+        }
+      },
+      "2026-10-04": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 1036,
+          "wins": 530,
+          "losses": 506,
+          "profit": 25722.799999999894
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 1036,
+            "wins": 530,
+            "losses": 506,
+            "profit": 25722.799999999894
+          }
+        }
+      },
+      "2026-10-05": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 1000,
+          "wins": 522,
+          "losses": 478,
+          "profit": 40864
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 1000,
+            "wins": 522,
+            "losses": 478,
+            "profit": 40864
+          }
+        }
+      },
+      "2026-10-06": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 1397,
+          "wins": 725,
+          "losses": 672,
+          "profit": 24020
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 1397,
+            "wins": 725,
+            "losses": 672,
+            "profit": 24020
+          }
+        }
+      },
+      "2026-10-07": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 556,
+          "wins": 264,
+          "losses": 292,
+          "profit": 32288
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 556,
+            "wins": 264,
+            "losses": 292,
+            "profit": 32288
+          }
+        }
+      },
+      "2026-10-08": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 934,
+          "wins": 485,
+          "losses": 449,
+          "profit": 51091.599999999926
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 934,
+            "wins": 485,
+            "losses": 449,
+            "profit": 51091.599999999926
+          }
+        }
+      },
+      "2026-10-09": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 1365,
+          "wins": 679,
+          "losses": 686,
+          "profit": 78467.20000000003
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 1365,
+            "wins": 679,
+            "losses": 686,
+            "profit": 78467.20000000003
+          }
+        }
+      },
+      "2026-10-10": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 1134,
+          "wins": 543,
+          "losses": 591,
+          "profit": 89363.2
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 1134,
+            "wins": 543,
+            "losses": 591,
+            "profit": 89363.2
+          }
+        }
+      },
+      "2026-10-11": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 766,
+          "wins": 382,
+          "losses": 384,
+          "profit": -76048
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 250,
+            "wins": 116,
+            "losses": 134,
+            "profit": -97396
+          },
+          "KO_ZERO": {
+            "bets": 516,
+            "wins": 266,
+            "losses": 250,
+            "profit": 21348
+          }
+        }
+      },
+      "2026-10-12": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 322,
+          "wins": 167,
+          "losses": 155,
+          "profit": -468.7999999999993
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 322,
+            "wins": 167,
+            "losses": 155,
+            "profit": -468.7999999999993
+          }
+        }
+      },
+      "2026-10-13": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 89,
+          "wins": 45,
+          "losses": 44,
+          "profit": 1168
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 89,
+            "wins": 45,
+            "losses": 44,
+            "profit": 1168
+          }
+        }
+      },
+      "2026-10-15": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 399,
+          "wins": 200,
+          "losses": 199,
+          "profit": 19032
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 399,
+            "wins": 200,
+            "losses": 199,
+            "profit": 19032
+          }
+        }
+      },
+      "2026-10-16": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 656,
+          "wins": 332,
+          "losses": 324,
+          "profit": 6440
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 656,
+            "wins": 332,
+            "losses": 324,
+            "profit": 6440
+          }
+        }
+      },
+      "2026-10-17": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 628,
+          "wins": 304,
+          "losses": 324,
+          "profit": -17852
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 628,
+            "wins": 304,
+            "losses": 324,
+            "profit": -17852
+          }
+        }
+      },
+      "2026-10-18": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 1374,
+          "wins": 702,
+          "losses": 672,
+          "profit": 5516
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 1374,
+            "wins": 702,
+            "losses": 672,
+            "profit": 5516
+          }
+        }
+      },
+      "2026-10-19": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 546,
+          "wins": 289,
+          "losses": 257,
+          "profit": 5316
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 546,
+            "wins": 289,
+            "losses": 257,
+            "profit": 5316
+          }
+        }
+      },
+      "2026-10-22": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 158,
+          "wins": 88,
+          "losses": 70,
+          "profit": 7580
+        },
+        "strategies": {
+          "PAI_TRX_SIGNAL": {
+            "bets": 100,
+            "wins": 54,
+            "losses": 46,
+            "profit": 4396
+          },
+          "CHANNEL_SIGNAL": {
+            "bets": 58,
+            "wins": 34,
+            "losses": 24,
+            "profit": 3184
+          }
+        }
+      }
+    },
+    "6860514018": {
+      "2026-10-03": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 140,
+          "wins": 76,
+          "losses": 64,
+          "profit": 1414.3999999999985
+        },
+        "strategies": {
+          "SHINE": {
+            "bets": 140,
+            "wins": 76,
+            "losses": 64,
+            "profit": 1414.3999999999985
+          }
+        }
+      },
+      "2026-10-04": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 1413,
+          "wins": 708,
+          "losses": 705,
+          "profit": 14992.800000000021
+        },
+        "strategies": {
+          "SHINE": {
+            "bets": 1413,
+            "wins": 708,
+            "losses": 705,
+            "profit": 14992.800000000021
+          }
+        }
+      },
+      "2026-10-05": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 1905,
+          "wins": 960,
+          "losses": 945,
+          "profit": 2189.200000000025
+        },
+        "strategies": {
+          "SHINE": {
+            "bets": 1905,
+            "wins": 960,
+            "losses": 945,
+            "profit": 2189.200000000025
+          }
+        }
+      },
+      "2026-10-06": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 2198,
+          "wins": 1072,
+          "losses": 1126,
+          "profit": -40309.99999999983
+        },
+        "strategies": {
+          "SHINE": {
+            "bets": 1549,
+            "wins": 770,
+            "losses": 779,
+            "profit": -20924.800000000057
+          },
+          "ALINKAR": {
+            "bets": 551,
+            "wins": 258,
+            "losses": 293,
+            "profit": -9755.60000000001
+          },
+          "CYBER_SNIPER": {
+            "bets": 11,
+            "wins": 5,
+            "losses": 6,
+            "profit": -9220
+          },
+          "QUANTUM_CALC": {
+            "bets": 87,
+            "wins": 39,
+            "losses": 48,
+            "profit": -409.5999999999999
+          }
+        }
+      },
+      "2026-10-07": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 1682,
+          "wins": 848,
+          "losses": 834,
+          "profit": 12082.400000000038
+        },
+        "strategies": {
+          "SHINE": {
+            "bets": 1682,
+            "wins": 848,
+            "losses": 834,
+            "profit": 12082.400000000038
+          }
+        }
+      },
+      "2026-10-08": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 1936,
+          "wins": 942,
+          "losses": 994,
+          "profit": -11043.200000000055
+        },
+        "strategies": {
+          "SHINE": {
+            "bets": 1936,
+            "wins": 942,
+            "losses": 994,
+            "profit": -11043.200000000055
+          }
+        }
+      },
+      "2026-10-09": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 2228,
+          "wins": 1122,
+          "losses": 1106,
+          "profit": -7025.599999999916
+        },
+        "strategies": {
+          "SHINE": {
+            "bets": 2228,
+            "wins": 1122,
+            "losses": 1106,
+            "profit": -7025.599999999916
+          }
+        }
+      },
+      "2026-10-10": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 2696,
+          "wins": 1368,
+          "losses": 1328,
+          "profit": 5945.200000000022
+        },
+        "strategies": {
+          "SHINE": {
+            "bets": 2696,
+            "wins": 1368,
+            "losses": 1328,
+            "profit": 5945.200000000022
+          }
+        }
+      },
+      "2026-10-11": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 1941,
+          "wins": 1029,
+          "losses": 912,
+          "profit": -1516.7999999999233
+        },
+        "strategies": {
+          "SHINE": {
+            "bets": 1941,
+            "wins": 1029,
+            "losses": 912,
+            "profit": -1516.7999999999233
+          }
+        }
+      },
+      "2026-10-12": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 2661,
+          "wins": 1298,
+          "losses": 1363,
+          "profit": -9406.80000000039
+        },
+        "strategies": {
+          "SHINE": {
+            "bets": 2661,
+            "wins": 1298,
+            "losses": 1363,
+            "profit": -9406.80000000039
+          }
+        }
+      },
+      "2026-10-13": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 2623,
+          "wins": 1334,
+          "losses": 1289,
+          "profit": 32886.39999999944
+        },
+        "strategies": {
+          "SHINE": {
+            "bets": 2623,
+            "wins": 1334,
+            "losses": 1289,
+            "profit": 32886.39999999944
+          }
+        }
+      },
+      "2026-10-14": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 2871,
+          "wins": 1400,
+          "losses": 1471,
+          "profit": -31575.20000000108
+        },
+        "strategies": {
+          "SHINE": {
+            "bets": 2871,
+            "wins": 1400,
+            "losses": 1471,
+            "profit": -31575.20000000108
+          }
+        }
+      },
+      "2026-10-15": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 2777,
+          "wins": 1410,
+          "losses": 1367,
+          "profit": 8078.400000000169
+        },
+        "strategies": {
+          "SHINE": {
+            "bets": 2777,
+            "wins": 1410,
+            "losses": 1367,
+            "profit": 8078.400000000169
+          }
+        }
+      },
+      "2026-10-16": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 1792,
+          "wins": 892,
+          "losses": 900,
+          "profit": 4167.199999999965
+        },
+        "strategies": {
+          "SHINE": {
+            "bets": 1792,
+            "wins": 892,
+            "losses": 900,
+            "profit": 4167.199999999965
+          }
+        }
+      },
+      "2026-10-17": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 2576,
+          "wins": 1258,
+          "losses": 1318,
+          "profit": 5774.800000000093
+        },
+        "strategies": {
+          "SHINE": {
+            "bets": 2576,
+            "wins": 1258,
+            "losses": 1318,
+            "profit": 5774.800000000093
+          }
+        }
+      },
+      "2026-10-18": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 2022,
+          "wins": 1001,
+          "losses": 1021,
+          "profit": 7319.600000000107
+        },
+        "strategies": {
+          "SHINE": {
+            "bets": 2022,
+            "wins": 1001,
+            "losses": 1021,
+            "profit": 7319.600000000107
+          }
+        }
+      },
+      "2026-10-19": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 2309,
+          "wins": 1178,
+          "losses": 1131,
+          "profit": 8917.2000000002
+        },
+        "strategies": {
+          "SHINE": {
+            "bets": 2309,
+            "wins": 1178,
+            "losses": 1131,
+            "profit": 8917.2000000002
+          }
+        }
+      },
+      "2026-10-20": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 4,
+          "wins": 0,
+          "losses": 4,
+          "profit": -80000
+        },
+        "strategies": {
+          "SHINE": {
+            "bets": 4,
+            "wins": 0,
+            "losses": 4,
+            "profit": -80000
+          }
+        }
+      }
+    },
+    "5432566921": {
+      "2026-10-03": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 215,
+          "wins": 106,
+          "losses": 109,
+          "profit": 34520
+        },
+        "strategies": {
+          "KO_ZERO": {
+            "bets": 44,
+            "wins": 24,
+            "losses": 20,
+            "profit": 4504
+          },
+          "TREND_FOLLOW": {
+            "bets": 171,
+            "wins": 82,
+            "losses": 89,
+            "profit": 30016
+          }
+        }
+      },
+      "2026-10-04": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 806,
+          "wins": 413,
+          "losses": 393,
+          "profit": -120792
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 624,
+            "wins": 329,
+            "losses": 295,
+            "profit": -141100
+          },
+          "QUANTUM_CALC": {
+            "bets": 52,
+            "wins": 24,
+            "losses": 28,
+            "profit": 5900
+          },
+          "ALINKAR": {
+            "bets": 130,
+            "wins": 60,
+            "losses": 70,
+            "profit": 14408
+          }
+        }
+      },
+      "2026-10-05": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 651,
+          "wins": 339,
+          "losses": 312,
+          "profit": 40980.79999999996
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 651,
+            "wins": 339,
+            "losses": 312,
+            "profit": 40980.79999999996
+          }
+        }
+      },
+      "2026-10-06": {
+        "manual": {
+          "bets": 2,
+          "wins": 2,
+          "losses": 0,
+          "profit": 2880
+        },
+        "auto": {
+          "bets": 315,
+          "wins": 143,
+          "losses": 172,
+          "profit": 15696.399999999998
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 315,
+            "wins": 143,
+            "losses": 172,
+            "profit": 15696.399999999998
+          }
+        }
+      },
+      "2026-10-07": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 149,
+          "wins": 68,
+          "losses": 81,
+          "profit": 41904
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 133,
+            "wins": 62,
+            "losses": 71,
+            "profit": 46576
+          },
+          "QUANTUM_CALC": {
+            "bets": 15,
+            "wins": 6,
+            "losses": 9,
+            "profit": -1672
+          },
+          "KO_PAING": {
+            "bets": 1,
+            "wins": 0,
+            "losses": 1,
+            "profit": -3000
+          }
+        }
+      },
+      "2026-10-08": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 215,
+          "wins": 106,
+          "losses": 109,
+          "profit": -42291.60000000003
+        },
+        "strategies": {
+          "CHANNEL_SIGNAL": {
+            "bets": 67,
+            "wins": 41,
+            "losses": 26,
+            "profit": -48604
+          },
+          "QUANTUM_CALC": {
+            "bets": 102,
+            "wins": 45,
+            "losses": 57,
+            "profit": 4499.5999999999985
+          },
+          "OP_PATTERN": {
+            "bets": 46,
+            "wins": 20,
+            "losses": 26,
+            "profit": 1812.8
+          }
+        }
+      },
+      "2026-10-09": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 17,
+          "wins": 9,
+          "losses": 8,
+          "profit": 76.79999999999995
+        },
+        "strategies": {
+          "CHANNEL_SIGNAL": {
+            "bets": 17,
+            "wins": 9,
+            "losses": 8,
+            "profit": 76.79999999999995
+          }
+        }
+      },
+      "2026-10-10": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 355,
+          "wins": 184,
+          "losses": 171,
+          "profit": -16200
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 33,
+            "wins": 18,
+            "losses": 15,
+            "profit": -7708
+          },
+          "TREND_FOLLOW": {
+            "bets": 322,
+            "wins": 166,
+            "losses": 156,
+            "profit": -8492
+          }
+        }
+      },
+      "2026-10-11": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 501,
+          "wins": 261,
+          "losses": 240,
+          "profit": 19312
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 309,
+            "wins": 170,
+            "losses": 139,
+            "profit": 14844
+          },
+          "CYBER_SNIPER": {
+            "bets": 6,
+            "wins": 2,
+            "losses": 4,
+            "profit": -6040
+          },
+          "CHANNEL_SIGNAL": {
+            "bets": 186,
+            "wins": 89,
+            "losses": 97,
+            "profit": 10508
+          }
+        }
+      },
+      "2026-10-12": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 48,
+          "wins": 18,
+          "losses": 30,
+          "profit": -42020
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 21,
+            "wins": 6,
+            "losses": 15,
+            "profit": -12268
+          },
+          "CHANNEL_SIGNAL": {
+            "bets": 27,
+            "wins": 12,
+            "losses": 15,
+            "profit": -29752
+          }
+        }
+      },
+      "2026-10-13": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 169,
+          "wins": 74,
+          "losses": 95,
+          "profit": -11213.599999999991
+        },
+        "strategies": {
+          "CHANNEL_SIGNAL": {
+            "bets": 13,
+            "wins": 11,
+            "losses": 2,
+            "profit": 1240
+          },
+          "QUANTUM_CALC": {
+            "bets": 16,
+            "wins": 5,
+            "losses": 11,
+            "profit": -12692
+          },
+          "OP_PATTERN": {
+            "bets": 140,
+            "wins": 58,
+            "losses": 82,
+            "profit": 238.39999999999978
+          }
+        }
+      },
+      "2026-10-14": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 26,
+          "wins": 11,
+          "losses": 15,
+          "profit": -1416
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 26,
+            "wins": 11,
+            "losses": 15,
+            "profit": -1416
+          }
+        }
+      },
+      "2026-10-15": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 40,
+          "wins": 27,
+          "losses": 13,
+          "profit": 1514
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 40,
+            "wins": 27,
+            "losses": 13,
+            "profit": 1514
+          }
+        }
+      },
+      "2026-10-18": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 262,
+          "wins": 118,
+          "losses": 144,
+          "profit": -4171.599999999989
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 262,
+            "wins": 118,
+            "losses": 144,
+            "profit": -4171.599999999989
+          }
+        }
+      },
+      "2026-10-19": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 172,
+          "wins": 87,
+          "losses": 85,
+          "profit": 4561.2000000000035
+        },
+        "strategies": {
+          "CHANNEL_SIGNAL": {
+            "bets": 172,
+            "wins": 87,
+            "losses": 85,
+            "profit": 4561.2000000000035
+          }
+        }
+      },
+      "2026-10-24": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 125,
+          "wins": 64,
+          "losses": 61,
+          "profit": -4608.799999999984
+        },
+        "strategies": {
+          "CHANNEL_SIGNAL": {
+            "bets": 125,
+            "wins": 64,
+            "losses": 61,
+            "profit": -4608.799999999984
+          }
+        }
+      }
+    },
+    "7259590181": {
+      "2026-10-04": {
+        "manual": {
+          "bets": 2,
+          "wins": 1,
+          "losses": 1,
+          "profit": -6640
+        },
+        "auto": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "strategies": {}
+      },
+      "2026-10-09": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 21,
+          "wins": 11,
+          "losses": 10,
+          "profit": 5600
+        },
+        "strategies": {
+          "CHANNEL_SIGNAL": {
+            "bets": 21,
+            "wins": 11,
+            "losses": 10,
+            "profit": 5600
+          }
+        }
+      }
+    },
+    "8538596908": {
+      "2026-10-04": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 51,
+          "wins": 24,
+          "losses": 27,
+          "profit": -12408
+        },
+        "strategies": {
+          "KO_ZERO": {
+            "bets": 12,
+            "wins": 6,
+            "losses": 6,
+            "profit": -2432
+          },
+          "QUANTUM_CALC": {
+            "bets": 27,
+            "wins": 13,
+            "losses": 14,
+            "profit": -24
+          },
+          "OP_PATTERN": {
+            "bets": 12,
+            "wins": 5,
+            "losses": 7,
+            "profit": -9952
+          }
+        }
+      },
+      "2026-10-06": {
+        "manual": {
+          "bets": 6,
+          "wins": 4,
+          "losses": 2,
+          "profit": 2832344
+        },
+        "auto": {
+          "bets": 45,
+          "wins": 27,
+          "losses": 18,
+          "profit": 136424
+        },
+        "strategies": {
+          "OP_PATTERN": {
+            "bets": 27,
+            "wins": 15,
+            "losses": 12,
+            "profit": 135240
+          },
+          "QUANTUM_CALC": {
+            "bets": 3,
+            "wins": 1,
+            "losses": 2,
+            "profit": -304
+          },
+          "TIME_WARP": {
+            "bets": 15,
+            "wins": 11,
+            "losses": 4,
+            "profit": 1488
+          }
+        }
+      },
+      "2026-10-07": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 3,
+          "wins": 0,
+          "losses": 3,
+          "profit": -700
+        },
+        "strategies": {
+          "TIME_WARP": {
+            "bets": 3,
+            "wins": 0,
+            "losses": 3,
+            "profit": -700
+          }
+        }
+      },
+      "2026-10-09": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 10,
+          "wins": 4,
+          "losses": 6,
+          "profit": -248
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 8,
+            "wins": 3,
+            "losses": 5,
+            "profit": -244
+          },
+          "BS_ORDER": {
+            "bets": 2,
+            "wins": 1,
+            "losses": 1,
+            "profit": -4
+          }
+        }
+      },
+      "2026-10-10": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 52,
+          "wins": 25,
+          "losses": 27,
+          "profit": -1304
+        },
+        "strategies": {
+          "BS_ORDER": {
+            "bets": 3,
+            "wins": 1,
+            "losses": 2,
+            "profit": -2204
+          },
+          "QUANTUM_CALC": {
+            "bets": 49,
+            "wins": 24,
+            "losses": 25,
+            "profit": 900
+          }
+        }
+      }
+    },
+    "6575115271": {
+      "2026-10-04": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 29,
+          "wins": 16,
+          "losses": 13,
+          "profit": 2200
+        },
+        "strategies": {
+          "SHINE": {
+            "bets": 29,
+            "wins": 16,
+            "losses": 13,
+            "profit": 2200
+          }
+        }
+      }
+    },
+    "7703801604": {
+      "2026-10-04": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 121,
+          "wins": 62,
+          "losses": 59,
+          "profit": -5060
+        },
+        "strategies": {
+          "KO_PAING": {
+            "bets": 96,
+            "wins": 48,
+            "losses": 48,
+            "profit": -448
+          },
+          "ALTERNATE": {
+            "bets": 3,
+            "wins": 2,
+            "losses": 1,
+            "profit": 92
+          },
+          "TREND_FOLLOW": {
+            "bets": 22,
+            "wins": 12,
+            "losses": 10,
+            "profit": -4704
+          }
+        }
+      },
+      "2026-10-05": {
+        "manual": {
+          "bets": 6,
+          "wins": 3,
+          "losses": 3,
+          "profit": -6359520
+        },
+        "auto": {
+          "bets": 97,
+          "wins": 48,
+          "losses": 49,
+          "profit": -37100
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 69,
+            "wins": 36,
+            "losses": 33,
+            "profit": -8172
+          },
+          "CYBER_SNIPER": {
+            "bets": 5,
+            "wins": 2,
+            "losses": 3,
+            "profit": 1360
+          },
+          "ALINKAR": {
+            "bets": 8,
+            "wins": 4,
+            "losses": 4,
+            "profit": 3180
+          },
+          "KO_PAING": {
+            "bets": 2,
+            "wins": 1,
+            "losses": 1,
+            "profit": -40
+          },
+          "ALTERNATE": {
+            "bets": 13,
+            "wins": 5,
+            "losses": 8,
+            "profit": -33428
+          }
+        }
+      },
+      "2026-10-06": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 52,
+          "wins": 23,
+          "losses": 29,
+          "profit": 6476
+        },
+        "strategies": {
+          "CHANNEL_SIGNAL": {
+            "bets": 10,
+            "wins": 4,
+            "losses": 6,
+            "profit": 1640
+          },
+          "ALTERNATE": {
+            "bets": 42,
+            "wins": 19,
+            "losses": 23,
+            "profit": 4836
+          }
+        }
+      },
+      "2026-10-07": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 279,
+          "wins": 141,
+          "losses": 138,
+          "profit": -14064
+        },
+        "strategies": {
+          "ALTERNATE": {
+            "bets": 279,
+            "wins": 141,
+            "losses": 138,
+            "profit": -14064
+          }
+        }
+      },
+      "2026-10-09": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 15,
+          "wins": 8,
+          "losses": 7,
+          "profit": 1300
+        },
+        "strategies": {
+          "ALTERNATE": {
+            "bets": 15,
+            "wins": 8,
+            "losses": 7,
+            "profit": 1300
+          }
+        }
+      },
+      "2026-10-10": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 54,
+          "wins": 26,
+          "losses": 28,
+          "profit": -28596
+        },
+        "strategies": {
+          "ALTERNATE": {
+            "bets": 54,
+            "wins": 26,
+            "losses": 28,
+            "profit": -28596
+          }
+        }
+      },
+      "2026-10-12": {
+        "manual": {
+          "bets": 8,
+          "wins": 4,
+          "losses": 4,
+          "profit": -983504
+        },
+        "auto": {
+          "bets": 91,
+          "wins": 43,
+          "losses": 48,
+          "profit": 13480
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 91,
+            "wins": 43,
+            "losses": 48,
+            "profit": 13480
+          }
+        }
+      },
+      "2026-10-13": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 42,
+          "wins": 21,
+          "losses": 21,
+          "profit": 3924
+        },
+        "strategies": {
+          "ALTERNATE": {
+            "bets": 42,
+            "wins": 21,
+            "losses": 21,
+            "profit": 3924
+          }
+        }
+      },
+      "2026-10-14": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 112,
+          "wins": 58,
+          "losses": 54,
+          "profit": 840
+        },
+        "strategies": {
+          "KO_PAING": {
+            "bets": 112,
+            "wins": 58,
+            "losses": 54,
+            "profit": 840
+          }
+        }
+      },
+      "2026-10-15": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 10,
+          "wins": 7,
+          "losses": 3,
+          "profit": 756
+        },
+        "strategies": {
+          "CHANNEL_SIGNAL": {
+            "bets": 10,
+            "wins": 7,
+            "losses": 3,
+            "profit": 756
+          }
+        }
+      },
+      "2026-10-16": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 192,
+          "wins": 100,
+          "losses": 92,
+          "profit": 9624
+        },
+        "strategies": {
+          "CHANNEL_SIGNAL": {
+            "bets": 192,
+            "wins": 100,
+            "losses": 92,
+            "profit": 9624
+          }
+        }
+      }
+    },
+    "7050275449": {
+      "2026-10-04": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 19,
+          "wins": 8,
+          "losses": 11,
+          "profit": -1660
+        },
+        "strategies": {
+          "KO_PAING": {
+            "bets": 19,
+            "wins": 8,
+            "losses": 11,
+            "profit": -1660
+          }
+        }
+      },
+      "2026-10-13": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 105,
+          "wins": 47,
+          "losses": 58,
+          "profit": -19552
+        },
+        "strategies": {
+          "SHINE": {
+            "bets": 7,
+            "wins": 0,
+            "losses": 7,
+            "profit": -29900
+          },
+          "OP_PATTERN": {
+            "bets": 98,
+            "wins": 47,
+            "losses": 51,
+            "profit": 10348
+          }
+        }
+      },
+      "2026-10-14": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 125,
+          "wins": 60,
+          "losses": 65,
+          "profit": 6040
+        },
+        "strategies": {
+          "OP_PATTERN": {
+            "bets": 125,
+            "wins": 60,
+            "losses": 65,
+            "profit": 6040
+          }
+        }
+      },
+      "2026-10-22": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 49,
+          "wins": 21,
+          "losses": 28,
+          "profit": -9424
+        },
+        "strategies": {
+          "SKO_ZE": {
+            "bets": 32,
+            "wins": 13,
+            "losses": 19,
+            "profit": -8356
+          },
+          "GOLDEN_RATIO": {
+            "bets": 17,
+            "wins": 8,
+            "losses": 9,
+            "profit": -1068
+          }
+        }
+      }
+    },
+    "6537568229": {
+      "2026-10-04": {
+        "manual": {
+          "bets": 1,
+          "wins": 0,
+          "losses": 1,
+          "profit": -200
+        },
+        "auto": {
+          "bets": 159,
+          "wins": 80,
+          "losses": 79,
+          "profit": -12485.599999999999
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 159,
+            "wins": 80,
+            "losses": 79,
+            "profit": -12485.599999999999
+          }
+        }
+      }
+    },
+    "7156290347": {
+      "2026-10-04": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 18,
+          "wins": 4,
+          "losses": 14,
+          "profit": -20414
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 18,
+            "wins": 4,
+            "losses": 14,
+            "profit": -20414
+          }
+        }
+      },
+      "2026-10-05": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 186,
+          "wins": 85,
+          "losses": 101,
+          "profit": 34372.39999999989
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 32,
+            "wins": 12,
+            "losses": 20,
+            "profit": -1603.2
+          },
+          "CYBER_SNIPER": {
+            "bets": 30,
+            "wins": 16,
+            "losses": 14,
+            "profit": 55614.399999999994
+          },
+          "KO_ZERO": {
+            "bets": 37,
+            "wins": 19,
+            "losses": 18,
+            "profit": -9639.2
+          },
+          "TIME_WARP": {
+            "bets": 87,
+            "wins": 38,
+            "losses": 49,
+            "profit": -9999.600000000002
+          }
+        }
+      },
+      "2026-10-06": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 86,
+          "wins": 44,
+          "losses": 42,
+          "profit": -33100
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 86,
+            "wins": 44,
+            "losses": 42,
+            "profit": -33100
+          }
+        }
+      },
+      "2026-10-07": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 60,
+          "wins": 30,
+          "losses": 30,
+          "profit": -7100.799999999999
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 46,
+            "wins": 21,
+            "losses": 25,
+            "profit": -9328.8
+          },
+          "KO_ZERO": {
+            "bets": 14,
+            "wins": 9,
+            "losses": 5,
+            "profit": 2228
+          }
+        }
+      },
+      "2026-10-08": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 252,
+          "wins": 128,
+          "losses": 124,
+          "profit": 15200.800000000001
+        },
+        "strategies": {
+          "KO_ZERO": {
+            "bets": 51,
+            "wins": 29,
+            "losses": 22,
+            "profit": 5168
+          },
+          "CYBER_SNIPER": {
+            "bets": 4,
+            "wins": 2,
+            "losses": 2,
+            "profit": 7440
+          },
+          "ALTERNATE": {
+            "bets": 94,
+            "wins": 42,
+            "losses": 52,
+            "profit": -494.39999999999964
+          },
+          "TREND_FOLLOW": {
+            "bets": 103,
+            "wins": 55,
+            "losses": 48,
+            "profit": 3087.2
+          }
+        }
+      },
+      "2026-10-09": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 163,
+          "wins": 83,
+          "losses": 80,
+          "profit": -23826.799999999992
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 129,
+            "wins": 67,
+            "losses": 62,
+            "profit": -13426.799999999992
+          },
+          "QUANTUM_CALC": {
+            "bets": 9,
+            "wins": 5,
+            "losses": 4,
+            "profit": 1032
+          },
+          "BS_ORDER": {
+            "bets": 23,
+            "wins": 11,
+            "losses": 12,
+            "profit": -7432
+          },
+          "CYBER_SNIPER": {
+            "bets": 2,
+            "wins": 0,
+            "losses": 2,
+            "profit": -4000
+          }
+        }
+      },
+      "2026-10-10": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 711,
+          "wins": 357,
+          "losses": 354,
+          "profit": -10045.599999999955
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 49,
+            "wins": 23,
+            "losses": 26,
+            "profit": -10302.4
+          },
+          "BS_ORDER": {
+            "bets": 662,
+            "wins": 334,
+            "losses": 328,
+            "profit": 256.8000000000284
+          }
+        }
+      },
+      "2026-10-11": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 28,
+          "wins": 13,
+          "losses": 15,
+          "profit": -1612
+        },
+        "strategies": {
+          "BS_ORDER": {
+            "bets": 28,
+            "wins": 13,
+            "losses": 15,
+            "profit": -1612
+          }
+        }
+      },
+      "2026-10-13": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 26,
+          "wins": 8,
+          "losses": 18,
+          "profit": -4804
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 26,
+            "wins": 8,
+            "losses": 18,
+            "profit": -4804
+          }
+        }
+      },
+      "2026-10-14": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 70,
+          "wins": 36,
+          "losses": 34,
+          "profit": 112
+        },
+        "strategies": {
+          "KO_PAING": {
+            "bets": 70,
+            "wins": 36,
+            "losses": 34,
+            "profit": 112
+          }
+        }
+      },
+      "2026-10-15": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 174,
+          "wins": 77,
+          "losses": 97,
+          "profit": 4940
+        },
+        "strategies": {
+          "KO_PAING": {
+            "bets": 94,
+            "wins": 40,
+            "losses": 54,
+            "profit": -3120
+          },
+          "SHANSHRED_HAIR": {
+            "bets": 80,
+            "wins": 37,
+            "losses": 43,
+            "profit": 8060
+          }
+        }
+      },
+      "2026-10-19": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 141,
+          "wins": 71,
+          "losses": 70,
+          "profit": -4712.8
+        },
+        "strategies": {
+          "SHANSHRED_HAIR": {
+            "bets": 141,
+            "wins": 71,
+            "losses": 70,
+            "profit": -4712.8
+          }
+        }
+      },
+      "2026-10-24": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 42,
+          "wins": 20,
+          "losses": 22,
+          "profit": -350.4
+        },
+        "strategies": {
+          "SHANSHRED_HAIR": {
+            "bets": 42,
+            "wins": 20,
+            "losses": 22,
+            "profit": -350.4
+          }
+        }
+      }
+    },
+    "8790936539": {
+      "2026-10-04": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 12,
+          "wins": 9,
+          "losses": 3,
+          "profit": 852
+        },
+        "strategies": {
+          "SHINE": {
+            "bets": 12,
+            "wins": 9,
+            "losses": 3,
+            "profit": 852
+          }
+        }
+      },
+      "2026-10-11": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 196,
+          "wins": 107,
+          "losses": 89,
+          "profit": 20584
+        },
+        "strategies": {
+          "SHINE": {
+            "bets": 196,
+            "wins": 107,
+            "losses": 89,
+            "profit": 20584
+          }
+        }
+      },
+      "2026-10-12": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 109,
+          "wins": 49,
+          "losses": 60,
+          "profit": 33732
+        },
+        "strategies": {
+          "SHINE": {
+            "bets": 12,
+            "wins": 4,
+            "losses": 8,
+            "profit": 4856
+          },
+          "TIME_WARP": {
+            "bets": 29,
+            "wins": 13,
+            "losses": 16,
+            "profit": 8360
+          },
+          "CHANNEL_SIGNAL": {
+            "bets": 68,
+            "wins": 32,
+            "losses": 36,
+            "profit": 20516
+          }
+        }
+      },
+      "2026-10-13": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 87,
+          "wins": 46,
+          "losses": 41,
+          "profit": -21272
+        },
+        "strategies": {
+          "CHANNEL_SIGNAL": {
+            "bets": 87,
+            "wins": 46,
+            "losses": 41,
+            "profit": -21272
+          }
+        }
+      },
+      "2026-10-15": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 22,
+          "wins": 7,
+          "losses": 15,
+          "profit": 23764
+        },
+        "strategies": {
+          "BS_ORDER": {
+            "bets": 22,
+            "wins": 7,
+            "losses": 15,
+            "profit": 23764
+          }
+        }
+      },
+      "2026-10-16": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 194,
+          "wins": 108,
+          "losses": 86,
+          "profit": 44952
+        },
+        "strategies": {
+          "BS_ORDER": {
+            "bets": 194,
+            "wins": 108,
+            "losses": 86,
+            "profit": 44952
+          }
+        }
+      },
+      "2026-10-17": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 385,
+          "wins": 208,
+          "losses": 177,
+          "profit": 26808
+        },
+        "strategies": {
+          "BS_ORDER": {
+            "bets": 385,
+            "wins": 208,
+            "losses": 177,
+            "profit": 26808
+          }
+        }
+      }
+    },
+    "7679050509": {
+      "2026-10-05": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 4,
+          "wins": 1,
+          "losses": 3,
+          "profit": 9800
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 4,
+            "wins": 1,
+            "losses": 3,
+            "profit": 9800
+          }
+        }
+      },
+      "2026-10-06": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 17,
+          "wins": 9,
+          "losses": 8,
+          "profit": 51076
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 6,
+            "wins": 3,
+            "losses": 3,
+            "profit": 15272
+          },
+          "KO_ZERO": {
+            "bets": 11,
+            "wins": 6,
+            "losses": 5,
+            "profit": 35804
+          }
+        }
+      },
+      "2026-10-07": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 14,
+          "wins": 5,
+          "losses": 9,
+          "profit": -64720
+        },
+        "strategies": {
+          "KO_ZERO": {
+            "bets": 14,
+            "wins": 5,
+            "losses": 9,
+            "profit": -64720
+          }
+        }
+      }
+    },
+    "5380515728": {
+      "2026-10-06": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 723,
+          "wins": 358,
+          "losses": 365,
+          "profit": 32073.20000000002
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 704,
+            "wins": 348,
+            "losses": 356,
+            "profit": 23273.200000000008
+          },
+          "CYBER_SNIPER": {
+            "bets": 19,
+            "wins": 10,
+            "losses": 9,
+            "profit": 8800
+          }
+        }
+      },
+      "2026-10-07": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 30,
+          "wins": 19,
+          "losses": 11,
+          "profit": 6192
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 26,
+            "wins": 15,
+            "losses": 11,
+            "profit": 2352
+          },
+          "CYBER_SNIPER": {
+            "bets": 4,
+            "wins": 4,
+            "losses": 0,
+            "profit": 3840
+          }
+        }
+      }
+    },
+    "8541853436": {
+      "2026-10-08": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 219,
+          "wins": 119,
+          "losses": 100,
+          "profit": -82284
+        },
+        "strategies": {
+          "ALTERNATE": {
+            "bets": 109,
+            "wins": 57,
+            "losses": 52,
+            "profit": -87636
+          },
+          "KO_PAING": {
+            "bets": 1,
+            "wins": 0,
+            "losses": 1,
+            "profit": -100
+          },
+          "BS_ORDER": {
+            "bets": 98,
+            "wins": 57,
+            "losses": 41,
+            "profit": 5096
+          },
+          "QUANTUM_CALC": {
+            "bets": 11,
+            "wins": 5,
+            "losses": 6,
+            "profit": 356
+          }
+        }
+      },
+      "2026-10-09": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 457,
+          "wins": 224,
+          "losses": 233,
+          "profit": -11328
+        },
+        "strategies": {
+          "BS_ORDER": {
+            "bets": 457,
+            "wins": 224,
+            "losses": 233,
+            "profit": -11328
+          }
+        }
+      },
+      "2026-10-11": {
+        "manual": {
+          "bets": 8,
+          "wins": 4,
+          "losses": 4,
+          "profit": 3041848640
+        },
+        "auto": {
+          "bets": 127,
+          "wins": 59,
+          "losses": 68,
+          "profit": -866976
+        },
+        "strategies": {
+          "BS_ORDER": {
+            "bets": 127,
+            "wins": 59,
+            "losses": 68,
+            "profit": -866976
+          }
+        }
+      },
+      "2026-10-12": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 200,
+          "wins": 94,
+          "losses": 106,
+          "profit": 82633720
+        },
+        "strategies": {
+          "BS_ORDER": {
+            "bets": 148,
+            "wins": 72,
+            "losses": 76,
+            "profit": 83521720
+          },
+          "KO_PAING": {
+            "bets": 47,
+            "wins": 21,
+            "losses": 26,
+            "profit": -584000
+          },
+          "CYBER_SNIPER": {
+            "bets": 5,
+            "wins": 1,
+            "losses": 4,
+            "profit": -304000
+          }
+        }
+      },
+      "2026-10-15": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 50,
+          "wins": 20,
+          "losses": 30,
+          "profit": -26760
+        },
+        "strategies": {
+          "BS_ORDER": {
+            "bets": 50,
+            "wins": 20,
+            "losses": 30,
+            "profit": -26760
+          }
+        }
+      }
+    },
+    "7850025434": {
+      "2026-10-10": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 356,
+          "wins": 187,
+          "losses": 169,
+          "profit": 4117.599999999991
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 356,
+            "wins": 187,
+            "losses": 169,
+            "profit": 4117.599999999991
+          }
+        }
+      },
+      "2026-10-11": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 501,
+          "wins": 225,
+          "losses": 276,
+          "profit": -74354.80000000003
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 201,
+            "wins": 97,
+            "losses": 104,
+            "profit": -11745.2
+          },
+          "TREND_FOLLOW": {
+            "bets": 300,
+            "wins": 128,
+            "losses": 172,
+            "profit": -62609.59999999999
+          }
+        }
+      }
+    },
+    "7107214350": {
+      "2026-10-12": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 14,
+          "wins": 7,
+          "losses": 7,
+          "profit": -568960
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 14,
+            "wins": 7,
+            "losses": 7,
+            "profit": -568960
+          }
+        }
+      }
+    },
+    "5654343750": {
+      "2026-10-12": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 156,
+          "wins": 73,
+          "losses": 83,
+          "profit": -26280
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 18,
+            "wins": 11,
+            "losses": 7,
+            "profit": 1564
+          },
+          "QUANTUM_CALC": {
+            "bets": 138,
+            "wins": 62,
+            "losses": 76,
+            "profit": -27844
+          }
+        }
+      },
+      "2026-10-13": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 81,
+          "wins": 41,
+          "losses": 40,
+          "profit": -668
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 81,
+            "wins": 41,
+            "losses": 40,
+            "profit": -668
+          }
+        }
+      },
+      "2026-10-14": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 19,
+          "wins": 6,
+          "losses": 13,
+          "profit": 1372
+        },
+        "strategies": {
+          "KO_ZERO": {
+            "bets": 19,
+            "wins": 6,
+            "losses": 13,
+            "profit": 1372
+          }
+        }
+      }
+    },
+    "6510908449": {
+      "2026-10-12": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 111,
+          "wins": 52,
+          "losses": 59,
+          "profit": -27944
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 111,
+            "wins": 52,
+            "losses": 59,
+            "profit": -27944
+          }
+        }
+      }
+    },
+    "5858273413": {
+      "2026-10-15": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 977,
+          "wins": 506,
+          "losses": 471,
+          "profit": 16026.800000000077
+        },
+        "strategies": {
+          "CHANNEL_SIGNAL": {
+            "bets": 67,
+            "wins": 37,
+            "losses": 30,
+            "profit": 5560
+          },
+          "SHANSHRED_HAIR": {
+            "bets": 910,
+            "wins": 469,
+            "losses": 441,
+            "profit": 10466.800000000054
+          }
+        }
+      },
+      "2026-10-16": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 745,
+          "wins": 372,
+          "losses": 373,
+          "profit": -22646.399999999965
+        },
+        "strategies": {
+          "SHANSHRED_HAIR": {
+            "bets": 745,
+            "wins": 372,
+            "losses": 373,
+            "profit": -22646.399999999965
+          }
+        }
+      }
+    },
+    "7375935286": {
+      "2026-10-15": {
+        "manual": {
+          "bets": 4,
+          "wins": 2,
+          "losses": 2,
+          "profit": -7518
+        },
+        "auto": {
+          "bets": 110,
+          "wins": 58,
+          "losses": 52,
+          "profit": -29216
+        },
+        "strategies": {
+          "ALINKAR": {
+            "bets": 16,
+            "wins": 5,
+            "losses": 11,
+            "profit": -29060
+          },
+          "CHANNEL_SIGNAL": {
+            "bets": 94,
+            "wins": 53,
+            "losses": 41,
+            "profit": -156
+          }
+        }
+      }
+    },
+    "7503785957": {
+      "2026-10-15": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 190,
+          "wins": 94,
+          "losses": 96,
+          "profit": -10589.600000000002
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 190,
+            "wins": 94,
+            "losses": 96,
+            "profit": -10589.600000000002
+          }
+        }
+      }
+    },
+    "5274944504": {
+      "2026-10-15": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 28,
+          "wins": 11,
+          "losses": 17,
+          "profit": -5948
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 18,
+            "wins": 8,
+            "losses": 10,
+            "profit": -1312
+          },
+          "SHANSHRED_HAIR": {
+            "bets": 10,
+            "wins": 3,
+            "losses": 7,
+            "profit": -4636
+          }
+        }
+      }
+    },
+    "8192593296": {
+      "2026-10-15": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 333,
+          "wins": 181,
+          "losses": 152,
+          "profit": 4665.999999999997
+        },
+        "strategies": {
+          "CHANNEL_SIGNAL": {
+            "bets": 333,
+            "wins": 181,
+            "losses": 152,
+            "profit": 4665.999999999997
+          }
+        }
+      },
+      "2026-10-16": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 139,
+          "wins": 55,
+          "losses": 84,
+          "profit": -13620
+        },
+        "strategies": {
+          "CHANNEL_SIGNAL": {
+            "bets": 139,
+            "wins": 55,
+            "losses": 84,
+            "profit": -13620
+          }
+        }
+      }
+    },
+    "8819363010": {
+      "2026-10-15": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 16,
+          "wins": 5,
+          "losses": 11,
+          "profit": -2996
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 16,
+            "wins": 5,
+            "losses": 11,
+            "profit": -2996
+          }
+        }
+      }
+    },
+    "5417432124": {
+      "2026-10-15": {
+        "manual": {
+          "bets": 12,
+          "wins": 7,
+          "losses": 5,
+          "profit": -12620
+        },
+        "auto": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "strategies": {}
+      }
+    },
+    "8213902013": {
+      "2026-10-15": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 98,
+          "wins": 42,
+          "losses": 56,
+          "profit": -1720.0000000000011
+        },
+        "strategies": {
+          "SHANSHRED_HAIR": {
+            "bets": 10,
+            "wins": 2,
+            "losses": 8,
+            "profit": -2440
+          },
+          "TREND_FOLLOW": {
+            "bets": 88,
+            "wins": 40,
+            "losses": 48,
+            "profit": 720.0000000000002
+          }
+        }
+      },
+      "2026-10-16": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 44,
+          "wins": 13,
+          "losses": 31,
+          "profit": -40095.6
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 44,
+            "wins": 13,
+            "losses": 31,
+            "profit": -40095.6
+          }
+        }
+      },
+      "2026-10-17": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 343,
+          "wins": 173,
+          "losses": 170,
+          "profit": 2703.9999999999964
+        },
+        "strategies": {
+          "SHANSHRED_HAIR": {
+            "bets": 343,
+            "wins": 173,
+            "losses": 170,
+            "profit": 2703.9999999999964
+          }
+        }
+      }
+    },
+    "8564846462": {
+      "2026-10-15": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 2,
+          "wins": 1,
+          "losses": 1,
+          "profit": 18.799999999999997
+        },
+        "strategies": {
+          "PAI_TRX_SIGNAL": {
+            "bets": 2,
+            "wins": 1,
+            "losses": 1,
+            "profit": 18.799999999999997
+          }
+        }
+      },
+      "2026-10-16": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 9,
+          "wins": 2,
+          "losses": 7,
+          "profit": 92.8
+        },
+        "strategies": {
+          "PAI_TRX_SIGNAL": {
+            "bets": 9,
+            "wins": 2,
+            "losses": 7,
+            "profit": 92.8
+          }
+        }
+      }
+    },
+    "8496062886": {
+      "2026-10-17": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 301,
+          "wins": 144,
+          "losses": 157,
+          "profit": -19182
+        },
+        "strategies": {
+          "TREND_FOLLOW": {
+            "bets": 301,
+            "wins": 144,
+            "losses": 157,
+            "profit": -19182
+          }
+        }
+      },
+      "2026-10-22": {
+        "manual": {
+          "bets": 0,
+          "wins": 0,
+          "losses": 0,
+          "profit": 0
+        },
+        "auto": {
+          "bets": 5,
+          "wins": 3,
+          "losses": 2,
+          "profit": 52
+        },
+        "strategies": {
+          "QUANTUM_CALC": {
+            "bets": 5,
+            "wins": 3,
+            "losses": 2,
+            "profit": 52
+          }
+        }
+      }
+    }
+  }
+}
